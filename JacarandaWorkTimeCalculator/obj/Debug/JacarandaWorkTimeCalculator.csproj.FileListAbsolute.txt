@@ -1,0 +1,9 @@
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\bin\Debug\JacarandaWorkTimeCalculator.exe.config
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\bin\Debug\JacarandaWorkTimeCalculator.exe
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\bin\Debug\JacarandaWorkTimeCalculator.pdb
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.Form1.resources
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.Properties.Resources.resources
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.csproj.GenerateResource.Cache
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.exe
+C:\Users\why\SkyDrive\Visual Studio 2012\JacarandaWorkTimeCalculator\JacarandaWorkTimeCalculator\obj\Debug\JacarandaWorkTimeCalculator.pdb
